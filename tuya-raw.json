@@ -1,0 +1,68 @@
+{
+    "result": [
+        {
+            "active_time": 1664298857,
+            "biz_type": 18,
+            "category": "cz",
+            "create_time": 1664298857,
+            "icon": "smart/icon/ay1522040095440mxmVM/374fbfba8459e53760343b36cfc7206c.png",
+            "id": "bf722a052fd995d338h6wo",
+            "ip": "94.37.185.230",
+            "lat": "41.9034",
+            "local_key": "0062b9384747f0f1",
+            "lon": "12.3949",
+            "model": "RMC004",
+            "name": "Smart Plug",
+            "online": true,
+            "owner_id": "66846665",
+            "product_id": "xtnehyamtpkge0se",
+            "product_name": "Smart Plug",
+            "status": [
+                {
+                    "code": "switch_1",
+                    "value": true
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "add_ele",
+                    "value": 1
+                },
+                {
+                    "code": "cur_current",
+                    "value": 0
+                },
+                {
+                    "code": "cur_power",
+                    "value": 0
+                },
+                {
+                    "code": "cur_voltage",
+                    "value": 2289
+                },
+                {
+                    "code": "relay_status",
+                    "value": "last"
+                },
+                {
+                    "code": "cycle_time",
+                    "value": ""
+                },
+                {
+                    "code": "random_time",
+                    "value": ""
+                }
+            ],
+            "sub": false,
+            "time_zone": "+02:00",
+            "uid": "eu1664297991882fSMVi",
+            "update_time": 1664387990,
+            "uuid": "a29021f508b56b5e"
+        }
+    ],
+    "success": true,
+    "t": 1667040335188,
+    "tid": "d17f07b9577611ed8bba9ee482573564"
+}
